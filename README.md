@@ -8,7 +8,7 @@ Hi. I am a data scientist. I am very familiar to Deep learning apis such as Tens
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stdntlfe/)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/stdntlfe)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MAILTO:stdntlfe@gmail.com)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Contact:+919792979142)
+
 
 
 ### Programming Languages & Tools:
