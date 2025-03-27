@@ -4,10 +4,10 @@
 
 Hi. I am a data scientist. I am very familiar to Deep learning apis such as Tensorflow, TensorflowLite, TfLearn, keras, pytorch, and fastai, mxnet. I have a good hands on working with Advanced R and Python and BI tools and technologies, AI, Big Data. I have quite a good knowledge of DL/ML Algorithm , have also developed Dashboards and Web Applications using flask/django. My area of expertise is building Image Processing, Speech Recognition and building models for food, healthcare and telecom sector, Classification/Prediction/Clustering, NLP and Chatbots. I usual using many technique and library, frameworks such as tensorflow, tesseract, machine learning such as CNN, DNN, FCRN, SVN etc. and I am generally attached to programming language in working.(r programming, pytorch ,opencv, nlp, computer vision,Linux, Python, , ....) Specifically, I have worked for long on machine learning and Deep learning including computer Vision and natural language processing and model building for the same. I understand the project requirement and will deliver the desired product within the time specified. I am an individual contractor, not an agency.
 
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stdntlfe.me/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stdntlfe/)
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/stdntlfe)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MAILTO:stdntlfe@gmail.com)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thinknewtech.com/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinknewtech/)
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/thinknewtech)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MAILTO:thinknewtech0@gmail.com)
 
 
 
